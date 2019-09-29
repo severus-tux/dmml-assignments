@@ -1,0 +1,51 @@
+The sets are : 
+
+{ bush, democratic, democrats,  }
+{ bush, democratic, election,  }
+{ bush, democratic, general,  }
+{ bush, democratic, house,  }
+{ bush, democratic, kerry,  }
+{ bush, democratic, poll,  }
+{ bush, democratic, primary,  }
+{ bush, democratic, republicans,  }
+{ bush, democratic, war,  }
+{ bush, democrats, general,  }
+{ bush, democrats, house,  }
+{ bush, democrats, kerry,  }
+{ bush, democrats, republicans,  }
+{ bush, election, general,  }
+{ bush, election, kerry,  }
+{ bush, general, house,  }
+{ bush, general, kerry,  }
+{ bush, general, media,  }
+{ bush, general, poll,  }
+{ bush, general, polls,  }
+{ bush, general, republicans,  }
+{ bush, general, war,  }
+{ bush, house, kerry,  }
+{ bush, house, republicans,  }
+{ bush, house, war,  }
+{ bush, kerry, media,  }
+{ bush, kerry, poll,  }
+{ bush, kerry, polls,  }
+{ bush, kerry, republicans,  }
+{ bush, kerry, war,  }
+{ bush, poll, polls,  }
+{ democratic, democrats, house,  }
+{ democratic, democrats, kerry,  }
+{ democratic, democrats, republicans,  }
+{ democratic, general, kerry,  }
+{ democratic, kerry, poll,  }
+{ democratic, kerry, polls,  }
+{ democratic, kerry, primary,  }
+{ democratic, poll, primary,  }
+{ election, general, kerry,  }
+{ general, kerry, poll,  }
+{ general, kerry, polls,  }
+{ general, kerry, republicans,  }
+{ general, kerry, war,  }
+{ general, poll, polls,  }
+{ kerry, poll, polls,  }
+{ kerry, poll, primary,  }
+Size of F3  : 47
+Time taken  : 7.10447seconds 
