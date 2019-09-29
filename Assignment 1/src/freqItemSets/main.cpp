@@ -36,5 +36,5 @@ int main(int argc, char **argv)
     auto stop = high_resolution_clock::now();  // stoping timer
     auto duration = duration_cast<microseconds>(stop - start);
 
-    cout << "Time taken  : "<< duration.count() / 1000000.0<< "seconds "<< endl;
+    cout << "time taken  : "<< duration.count() / 1000000.0<< "seconds "<< endl;
  }
