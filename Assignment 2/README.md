@@ -3,6 +3,11 @@
 Implementing 2 classifiers for connect-4 data set: a decision tree, a naive Bayesian classifier, and a support vector machine. Evaluating each model by doing a 10-fold cross validation.
 
 ### Running the code
+
+The code is available at [GitHub link ](https://github.com/severus-tux/dmml-assignments/blob/master/Assignment%202/src/connect-4.ipynb).
+
+To run the code :
+
 `jupyter-notebook connect-4.ipynb`
 
 
